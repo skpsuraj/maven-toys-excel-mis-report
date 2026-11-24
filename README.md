@@ -54,9 +54,9 @@ Open the **Releases** section on the right side of this page and download `MIS_P
 ![Stock Report](2_Stock_Report.png)
 
 ### Error check (report totals match raw data)
-![Error Check](3_Error_Check.png)
+![Error Check](3_Error_check.png)
 
 ### Data quality log
-![Data Quality Log](4_Data_Quality_Log.png)
+![Data Quality Log](4_Data_quality_Log.png)
 
 Built by Suraj Kumar Pandey
