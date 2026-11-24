@@ -57,6 +57,6 @@ Open the **Releases** section on the right side of this page and download `MIS_P
 ![Error Check](3_Error_check.png)
 
 ### Data quality log
-![Data Quality Log](4_Data_quality_Log.png)
+![Data Quality Log](4_Data_quality_log.png)
 
 Built by Suraj Kumar Pandey
